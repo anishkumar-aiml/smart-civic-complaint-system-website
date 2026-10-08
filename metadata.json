@@ -1,0 +1,10 @@
+{
+  "name": "Remix CivicPulse — Municipal Grievance \u0026 Complaint Redressal Portal",
+  "description": "Official municipal civic complaint portal for citizens to report neighborhood issues, track resolution SLAs in real time, view civic incident maps, and coordinate department dispatch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
